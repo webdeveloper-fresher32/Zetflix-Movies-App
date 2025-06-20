@@ -1,6 +1,8 @@
-# ZetFlix 🎬
+# Zetflix Movies App
 
-A modern, responsive web application for discovering and exploring movies and TV shows. Built with React, TypeScript, and Tailwind CSS, ZetFlix provides an intuitive interface for browsing popular media content with advanced filtering and search capabilities.
+A modern movie streaming application built with React, TypeScript, and Vite.
+
+<!-- Latest deployment fix: Updated package-lock.json with correct integrity checksums -->
 
 ## ✨ Features
 
